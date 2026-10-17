@@ -1,0 +1,13 @@
+7
+a A 12 green
+b A 9 red
+c A 8 green
+d A 6 blue
+e B 6 red
+f B 2 blue
+g B 5 purple
+a b A 1 blue
+b c A 3 blue
+b d A 5 red
+e f B 10 purple
+f g B 4 red

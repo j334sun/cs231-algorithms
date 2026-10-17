@@ -1,0 +1,11 @@
+4
+a none 0 white
+b none 0 white
+c none 0 white
+d none 0 white
+a b none 10 red
+a c none 5 blue
+a d none 40 blue
+b c none 20 green
+b d none 6 red
+c d none 30 blue
